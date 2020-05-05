@@ -1,4 +1,14 @@
-# Contributor Covenant Code of Conduct
+# Contributor Code of Conduct
+
+**Table of Contents:**
+
+* [Our Pledge](#our-pledge)
+* [Our Standards](#our-standards)
+* [Our Responsibilities](#our-responsibilities)
+* [Scope](#scope)
+* [Enforcement](#enforcement)
+* [Attribution](#attribution)
+
 
 ## Our Pledge
 
